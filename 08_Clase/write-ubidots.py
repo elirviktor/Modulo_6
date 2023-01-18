@@ -2,7 +2,7 @@ import requests
 import random
 import time
 
-TOKEN = 'BBFF-lEtxZ5IHfrLTUF1iR406z9gXAuOEHG'
+TOKEN = 'xxxxx'
 DEVICE_LABEL = 'machine-Italo'
 
 def main():

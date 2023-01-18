@@ -14,7 +14,7 @@ broker = "test.mosquitto.org"
 port = 1883
 topic = "pucv/iot/m6/p3/g5"
 #INFLUXDB CONFIGURACION
-token = "99W6voDxWt_Ru7rF6mlyh5ix645GCoA2QT6kcz5W3saXSXiPW-5EdPvAs-5akmdkp0Pruwpsy94zX5hHwZJH0A=="
+token = "xxxxxx"
 org = "solinfo2010@gmail.com"
 url = "https://eastus-1.azure.cloud2.influxdata.com"
 client = influxdb_client.InfluxDBClient(url=url, token=token, org=org)

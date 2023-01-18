@@ -5,7 +5,7 @@ import json
 from pandas import json_normalize
 import time
 
-TOKEN = 'BBFF-lEtxZ5IHfrLTUF1iR406z9gXAuOEHG'
+TOKEN = 'xxxxxx'
 DEVICE_LABEL = 'machine-Italo'
 temp = 'temperature'
 
